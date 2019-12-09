@@ -11,9 +11,9 @@ This is an example of a birthrates timeseries prediction using Keras's implement
 
 requirements :
 
-pip install --upgrade pip
-pip install keras h5py pandas sklearn
-python evaluate.py
+1)  pip install --upgrade pip
+2) pip install keras h5py pandas sklearn
+3) python evaluate.py
 
 ## NLP
 
